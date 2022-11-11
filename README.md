@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intertale-interactive&label=Profile%20views&color=0e75b6&style=flat" alt="intertale-interactive" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=intertale-interactive" alt="intertale-interactive" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/intertale_g" target="blank"><img src="https://img.shields.io/twitter/follow/intertale_g?logo=twitter&style=for-the-badge" alt="intertale_g" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Intertale_G" target="blank"><img src="https://img.shields.io/twitter/follow/intertale_g?logo=twitter&style=for-the-badge" alt="intertale_g" /></a> </p>
 
 - 🔭 I’m currently working on [Fight Quest](https://github.com/Intertale-Interactive/FightQuest)
 
@@ -25,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/intertale_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="intertale_g" height="30" width="40" /></a>
+<a href="https://twitter.com/Intertale_G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="intertale_g" height="30" width="40" /></a>
 <a href="https://instagram.com/intertale.team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="intertale.team" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/intertale interactive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="intertale interactive" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-rVG8tDpggXspfIIwPBsuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="intertale interactive" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/FKN9eX2uNz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FKN9eX2uNz" height="30" width="40" /></a>
 </p>
 
