@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Video Game Project](https://intertale.fr/collaborate)
 
-- 🤝 We are helping people in [our Discord Server !](https://discord.gg/FKN9eX2uNz)
+- 🤝 We are helping people in [our Discord Server !](https://discord.gg/Fd3ByyMZ32)
 
 - 👨‍💻 All of my projects are available at [https://intertale.fr](https://intertale.fr)
 
@@ -26,7 +26,7 @@
 <a href="https://twitter.com/Intertale_G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="intertale_g" height="30" width="40" /></a>
 <a href="https://instagram.com/intertale.team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="intertale.team" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-rVG8tDpggXspfIIwPBsuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="intertale interactive" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/FKN9eX2uNz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FKN9eX2uNz" height="30" width="40" /></a>
+<a href="https://discord.gg/Fd3ByyMZ32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FKN9eX2uNz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
